@@ -1,5 +1,7 @@
 # High-Mix Low-Volume Manufacturing
 
+[https://www.amazon.com/dp/013255688X?ref=ppx_yo2ov_dt_b_fed_asin_title](https://www.amazon.com/dp/013255688X?ref=ppx_yo2ov_dt_b_fed_asin_title)
+
 ## [Chapter 1 - High-Mix Manufacturing Competitive Strategy](./CHAPTER_1.md)
 
 ## [Chapter 2 - Critical Manufacturing Fundamentals](./CHAPTER_2.md)
